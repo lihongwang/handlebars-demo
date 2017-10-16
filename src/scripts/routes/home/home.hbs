@@ -1,0 +1,17 @@
+<div>
+    <script id="main" type="text/x-handlebars-template">
+        <div class="container">
+            <ul class="items">
+                {{> list-partial}}
+            </ul>
+        </div>
+    </script>
+    <script id="list-partial" type="text/x-handlebars-template">
+        {{#each items}}
+            {{> item-partial}}
+        {{/each}}
+    </script>
+    <script id="item-partial" type="text/x-handlebars-template">
+        <li>{{name}}</li>
+    </script>
+</div>
