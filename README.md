@@ -9,7 +9,7 @@ using template engine [handlebars](http://handlebarsjs.com/) in [skylarkjs](http
 ### results 
 [http://localhost:8086](http://localhost:8086)
 ### documents
-[http://skylarkjs.insidekb.cn/doku.php/66/handlebars](http://skylarkjs.insidekb.cn/doku.php/66/handlebars)
+[http://skylarkjs.insidekb.cn/doku.php/56/handlebars](http://skylarkjs.insidekb.cn/doku.php/66/handlebars)
 ### main file
 scripts/routes/home/HomeController.js
 ```javascript
